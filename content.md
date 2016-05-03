@@ -1,0 +1,56 @@
+Inhoud CMP1
+===================
+
+
+De inhoud van CMP1 voor het aj 16-17.
+
+----------
+
+
+Overzicht
+-------------
+
+Hierbij een overzicht van de items welke aan bod komen in CMP1.
+
+> **Items:**
+
+> - Installatie van IDE, PHPStorm.
+> - Opzet van lokale omgeving (webserver en databaseserver), Bitnami **(W/M/L)AMP** Stack
+> - Intro tot PHP.
+>  - Wat is een PHP file en verschil tussen HTML.
+>  - Wat je zeker moet weten...
+>  - <i class="icon-upload"></i> MOOC PHP
+> - Intro tot MySQL.
+>  - Wat is een db.
+>  - Waarom een db...
+>  - Connectie maken, database aanmaken, tabel aanmaken, data opvragen, update uitvoeren,...
+>  - <i class="icon-upload"></i> MOOC MySQL
+> - Intro tot CMS.
+>  - Wat is een CMS...
+>  - Wat is de trend?
+> - Installatie van WordPress.
+>  - Opzet van db.
+>  - Wizard uitvoeren van WordPress.
+>  - Kennis van configuratiefile en doel.
+>  - Tips & tricks bij deploy.
+> - Verkenning WordPress
+>  - Eerste keer aanmelden.
+>  - Content types verkennen.
+>  - Pagina's
+>  - Berichten
+>  ...
+> - Opmaak van website.
+>  - Switchen tussen default templates.
+>  - Aanpassen van default templates.
+>  - Child template aanmaken a.d.h.v. parent template.
+>  - Template zoeken, downloaden en installeren (zoals een plugin).
+>  - Omzetten van HTML 5 template naar WordPress template.
+> - Custom WordPress template
+>  - Minimum template files
+>  - Template hiërarchie
+
+
+Kristof Raes
+
+> De opgegeven items welke hierboven zijn opgelijst zijn onder voorbehoud van wijzigingen zonder voorafgaande mededeling.
+> Copyright &copy; 2016 by Kristof Raes.
