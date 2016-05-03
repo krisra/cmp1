@@ -50,7 +50,7 @@ Hierbij een overzicht van de items welke aan bod komen in CMP1.
 >  - Template hiërarchie
 
 
-Kristof Raes
+
 
 > De opgegeven items welke hierboven zijn opgelijst zijn onder voorbehoud van wijzigingen zonder voorafgaande mededeling.
 > Copyright &copy; 2016 by Kristof Raes.
