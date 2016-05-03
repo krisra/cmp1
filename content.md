@@ -47,7 +47,20 @@ Hierbij een overzicht van de items welke aan bod komen in CMP1.
 >  - Omzetten van HTML 5 template naar WordPress template.
 > - Custom WordPress template
 >  - Minimum template files
+>  - Extra functies toevoegen...
 >  - Template hiërarchie
+>  - Toepassen a.d.h.v. opdracht.
+> - Custom Post Type
+>  - Wat is er standaard (OOTB) aanwezig.
+>  - Template files voor specifieke weergave.
+>  - Taxonomie toevoegen.
+> - Functionaliteit uitbreiden
+>  - Contactformulier
+>  - Google Maps
+>  - Chatfunctie
+>  - Forum
+>  - ...
+
 
 
 
